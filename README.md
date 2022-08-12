@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/aysuarex" target="blank"><img src="https://img.shields.io/twitter/follow/aysuarex?logo=twitter&style=for-the-badge" alt="aysuarex" /></a> </p>
 
-- 🔭 I’m currently working on **Projects in Python and C**
+- 🔭 I’m currently working on **a clone of the AirBnbB web app*
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Javascript**
 
-- 💬 Ask me about **C**
+- 💬 Ask me about **Anything in my stack**
 
 - 📫 How to reach me **aysuarex@gmail.com**
 
