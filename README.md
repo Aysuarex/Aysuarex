@@ -16,7 +16,7 @@
 - 📫 How to reach me: **aysuarex@gmail.com**
 
 - ⚡ Fun fact: **I'm a student of the ALX Software Engineering Programme (cohort 5)**
-<br>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ayomide-suara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayomide-suara" height="30" width="40" /></a>
