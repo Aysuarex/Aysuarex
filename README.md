@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **aysuarex@gmail.com**
 
-- ⚡ Fun fact **I'm a student of the ALX Software Engineering Programme (cohort 5)**
+- ⚡ Fun fact **I'm a student of the ALX Software Engineering Program(cohort 5)**
 ---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
