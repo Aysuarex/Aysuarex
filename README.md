@@ -10,7 +10,7 @@
       <p>- 🔭 I’m currently working on <b>a clone of the AirBnB web app</b></p>
       <p>- 🌱 I’m currently learning <b>Javascript</b></p>
       <p>- 💬 Ask me about <b>Anything in my stack</b></p>
-      <p>- 📫 How to reach me: <b>aysuarex@gmail.com</b></p>
+      <p>- 📫 How to reach me: <b><a href=mailto:aysuarex@gmail.com alt=email>aysuarex@gmail.com</a></b></p>
       <p>- ⚡ Fun fact: <b>I'm a student of the ALX Software Engineering Programme (cohort 5)</b></p>
     </td>
     <td>
@@ -26,6 +26,8 @@
     </td>
   </tr>
 </table>
+
+<p align="center"> <a href="https://twitter.com/aysuarex" target="blank"><img src="https://img.shields.io/twitter/follow/aysuarex?logo=twitter&style=for-the-badge" alt="aysuarex" /></a> </p>
 
 ## My Github Stats:
 
@@ -45,8 +47,7 @@
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aysuarex&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aysuarex&label=Profile%20views&color=0e75b6&style=flat" alt="aysuarex" /> </p>
-<p align="left"> <a href="https://twitter.com/aysuarex" target="blank"><img src="https://img.shields.io/twitter/follow/aysuarex?logo=twitter&style=for-the-badge" alt="aysuarex" /></a> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=aysuarex&label=Profile%20views&color=0e75b6&style=flat" alt="aysuarex" /> </p>
 
 <!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aysuarex&show_icons=true&locale=en&layout=compact" alt="aysuarex" /></p>
