@@ -1,6 +1,6 @@
 <!--![MasterHead](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)-->
 ![Aysuarex_banner](https://user-images.githubusercontent.com/99369085/189547193-992ed153-38b7-4814-8cba-4054cdb382ea.png)
-<h1 align="center">Hi 👋, I'm Suara Ayomide</h1>
+<h1 align="center">Hi <img src="https://github.com/inspirasiprogrammer/inspirasiprogrammer/blob/main/wave.gif" width="30px">, I'm Suara Ayomide</h1>
 <h3 align="center">A passionate Software Engineer from Nigeria</h3>
 <!--<img align= "right" alt="Coding" width="375" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">-->
 
@@ -58,7 +58,7 @@
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aysuarex&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=aysuarex&label=Profile%20views&color=0e75b6&style=flat" alt="aysuarex" /> </p>
+<p align="right"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><img src="https://komarev.com/ghpvc/?username=aysuarex&label=Profile%20views&color=0e75b6&style=flat" alt="aysuarex" /> </p>
 
 
 <!--
