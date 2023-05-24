@@ -7,11 +7,11 @@
 <table>
   <tr>
     <td>
-      <p>- 🔭 I’m currently working on <b>a clone of the AirBnB web app</b></p>
-      <p>- 🌱 I’m currently learning <b>Javascript</b></p>
+      <p>- 🔭 I’m currently working on <b> a way to integrate software engineering into Civil Engineering even more</b></p>
+      <p>- 🌱 I’m currently learning <b>Civil Engineering</b></p>
       <p>- 💬 Ask me about <b>Anything in my stack</b></p>
       <p>- 📫 How to reach me: <b><a href=mailto:aysuarex@gmail.com alt=email>aysuarex@gmail.com</a></b></p>
-      <p>- ⚡ Fun fact: <b>I'm a student of the ALX Software Engineering Programme (cohort 5)</b></p>
+      <p>- ⚡ Fun fact: <b>I'm a graduate of the ALX Software Engineering Programme (cohort 5)</b></p>
     </td>
     <td>
       <h3 align="left">Connect with me:</h3>
