@@ -8,9 +8,9 @@
   <tr>
     <td>
       <p>- 🔭 I'm currently working on <b>a strategy to seamlessly incorporate software engineering principles into the realm of Civil Engineering.</b></p>
-      <p>- 🌱 I’m currently studying <b>Civil Engineering</b> at the <a href=https://www.ui.edu.ng/>University of Ibadan</a></p>
+      <p>- 🌱 I’m currently studying <b>Civil Engineering</b> at the <a href=https://www.ui.edu.ng/ target="_blank">University of Ibadan</a></p>
       <p>- 💬 Ask me about <b>Anything in my stack</b></p>
-      <p>- 📫 How to reach me: <b><a href=mailto:aysuarex@gmail.com alt=email>aysuarex@gmail.com</a></b></p>
+      <p>- 📫 How to reach me: <b><a href=mailto:aysuarex@gmail.com alt=email target="_blank">aysuarex@gmail.com</a></b></p>
       <p>- ⚡ Fun fact: <b>I'm a graduate of the ALX Software Engineering Programme (cohort 5)</b></p>
     </td>
     <td>
@@ -38,7 +38,7 @@
   </tr>
 </table>
 
-<p align="center"> <a href="https://twitter.com/aysuarex" target="blank"><img src="https://img.shields.io/twitter/follow/aysuarex?logo=twitter&style=for-the-badge" alt="aysuarex" /></a> </p>
+<p align="center"> <a href="https://twitter.com/aysuarex" target="_blank"><img src="https://img.shields.io/twitter/follow/aysuarex?logo=twitter&style=for-the-badge" alt="aysuarex" /></a> </p>
 
 ## My Github Stats:
 
