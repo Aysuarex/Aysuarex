@@ -7,8 +7,8 @@
 <table>
   <tr>
     <td>
-      <p>- 🔭 I'm currently working on <b></b>a strategy to seamlessly incorporate software engineering principles into the realm of Civil Engineering.</b></p>
-      <p>- 🌱 I’m currently learning <b>Civil Engineering</b> at the <a href=https://www.ui.edu.ng/>University of Ibadan</a></p>
+      <p>- 🔭 I'm currently working on <b>a strategy to seamlessly incorporate software engineering principles into the realm of Civil Engineering.</b></p>
+      <p>- 🌱 I’m currently studying <b>Civil Engineering</b> at the <a href=https://www.ui.edu.ng/>University of Ibadan</a></p>
       <p>- 💬 Ask me about <b>Anything in my stack</b></p>
       <p>- 📫 How to reach me: <b><a href=mailto:aysuarex@gmail.com alt=email>aysuarex@gmail.com</a></b></p>
       <p>- ⚡ Fun fact: <b>I'm a graduate of the ALX Software Engineering Programme (cohort 5)</b></p>
